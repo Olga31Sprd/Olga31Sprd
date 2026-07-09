@@ -1,16 +1,24 @@
-## Hi there 👋
+## Привет! Меня зовут Ольга, я Data Engineer. 👋
 
 <!--
 **Olga31Sprd/Olga31Sprd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Языки и инструменты 🔧
+Python: разработка ETL/ELT-процессов, написание скриптов трансформации данных на PySpark, работа с API.
+SQL: построение витрин данных в DWH, сложные аналитические запросы, оконные функции.
+##⚙ Инженерия данных (Data Engineering) ⚙
+Оркестрация: Apache Airflow — проектирование и поддержка DAG-ов для автоматизации пайплайнов.
+Распределенные вычисления: 
+  Apache Spark / PySpark: обработка больших объемов данных.
+  Hadoop: базовые принципы работы экосистемы распределенного хранения.
+Брокеры сообщений: Apache Kafka — понимание принципов потоковой передачи данных (streaming data).
+ETL/DWH:
+  Проектирование процессов извлечения, преобразования и загрузки данных.
+  Построение корпоративных хранилищ данных (Greenplum/Hive).
+Хранилища и озера данных:
+  Объектное хранилище: S3.
+  Хранилища данных: Greenplum, Apache Hive.
+  NoSQL: знание принципов нереляционных баз данных.
+## Аналитика и визуализация📊
+BI-инструменты: DataLens — создание дашбордов и визуализация метрик качества данных.
+MLOps: MLflow — отслеживание экспериментов и управление жизненным циклом моделей (если вы планируете показывать задачи машинного обучения).
